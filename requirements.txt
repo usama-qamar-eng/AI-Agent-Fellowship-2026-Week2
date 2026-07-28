@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+requests
+pypdf
+python-docx
+chromadb
+sentence-transformers
+langchain-text-splitters
