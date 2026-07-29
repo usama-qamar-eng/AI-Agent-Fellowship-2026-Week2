@@ -74,3 +74,8 @@ User -> Streamlit UI -> core/loader.py   (PDF/DOCX/TXT/MD -> pages)
 - Hybrid search re-ranks an over fetched candidate set with keyword overlap a real BM25
   index would be more principled at large document counts, but adds a dependency for
   marginal gain at this scale.
+
+
+## Demo Video Link
+
+https://drive.google.com/file/d/1U0kvT5UYia_AmdJiW9GB8RyzkeNh3jNq/view?usp=drive_link
